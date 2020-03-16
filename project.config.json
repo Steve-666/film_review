@@ -1,0 +1,167 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"enhance": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"appid": "wx545850e1bba9e23c",
+	"projectname": "film_discuss_project",
+	"libVersion": "2.10.2",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"compileType": "miniprogram",
+	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "pages/film-list/film-list",
+					"pathName": "pages/film-list/film-list",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/film-details/film-details",
+					"pathName": "pages/film-details/film-details",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/film-details/film-details",
+					"pathName": "pages/film-details/film-details",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/film-review-list/film-review-list",
+					"pathName": "pages/film-review-list/film-review-list",
+					"scene": null
+				}
+			]
+		},
+		"game": {
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": -1,
+					"name": "db guide",
+					"pathName": "pages/databaseGuide/databaseGuide",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/film-review-list/film-review-list",
+					"pathName": "pages/film-review-list/film-review-list",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/film-review-details/film-review-details",
+					"pathName": "pages/film-review-details/film-review-details",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/film-details/film-details",
+					"pathName": "pages/film-details/film-details",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/film-review-edit/film-review-edit",
+					"pathName": "pages/film-review-edit/film-review-edit",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/film-review-preview/film-review-preview",
+					"pathName": "pages/film-review-preview/film-review-preview",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/me/me",
+					"pathName": "pages/me/me",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/film-list/film-list",
+					"pathName": "pages/film-list/film-list",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/film-review-list/film-review-list",
+					"pathName": "pages/film-review-list/film-review-list",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/home/home",
+					"pathName": "pages/home/home",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/fav-submitted-review/fav-submitted-review",
+					"pathName": "pages/fav-submitted-review/fav-submitted-review",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/film-review-edit/film-review-edit",
+					"pathName": "pages/film-review-edit/film-review-edit",
+					"scene": null
+				}
+			]
+		}
+	}
+}

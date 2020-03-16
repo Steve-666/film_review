@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/me/me",
+    "pages/film-list/film-list",
+    "pages/film-details/film-details",
+    "pages/film-review-list/film-review-list",
+    "pages/film-review-details/film-review-details",
+    "pages/film-review-edit/film-review-edit",
+    "pages/film-review-preview/film-review-preview",
+    "components/login/login",
+    "pages/fav-submitted-review/fav-submitted-review"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "看看侃侃电影",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "cloud": true,
+  "requiredBackgroundModes": [
+    "audio"
+  ]
+}
